@@ -1,0 +1,36 @@
+@import	url("https://fonts.googleapis.com/css?family=Baskervville|Ibarra+Real+Nova|Lora|Merriweather|Roboto&display=swap");
+
+@import url("components/avatar.css");
+@import url("components/container.css");
+@import url("components/buttons.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	background-color:rgb(240,240,240);
+	margin: 0px;
+}
+
+h1,h2,h3 {
+font-family: Roboto, Helvetica, sans-serif;
+font-weight: bold;
+}
+
+#opp {
+  color:#663c19;
+}
+
+a {
+	text-decoration: none;
+
+}
+
+#test-section {
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+  border-radius: 10px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
